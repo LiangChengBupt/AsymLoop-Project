@@ -4,6 +4,10 @@ Project website for **Asymmetric Looped Transformers: Fixed Global Representatio
 
 A static research page with the architecture, original paper figures, interactive results across four model scales, component ablations, and supporting analyses.
 
+## Paper
+
+[Read the full manuscript (PDF)](assets/paper/asymloop.pdf)
+
 ## Publish with GitHub Pages
 
 1. Open **Settings → Pages** in this repository.
@@ -26,5 +30,6 @@ Open `http://localhost:8766/`. Use an HTTP server because the interactive result
 - `app.js`: recurrence illustration, results explorer, and figure viewer.
 - `assets/results.json`: reported seven-task results for all four scales and both evaluation settings.
 - `assets/figures/`: web images and original vector PDFs.
+- `assets/paper/asymloop.pdf`: public manuscript PDF.
 
-Author details and links to the paper and public model implementation can be added when available. The website repository is separate from the model implementation.
+Author details and a link to the public model implementation can be added when available. The website repository is separate from the model implementation.
