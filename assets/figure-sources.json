@@ -1,0 +1,42 @@
+[
+  {
+    "asset": "assets/figures/architecture.png",
+    "source": "Figure/asymloop-architecture-v2.png",
+    "source_sha256": "76d63815ef476e1a73e3836d53101eb551ee925356fc78d641a84632de2bc61d"
+  },
+  {
+    "asset": "assets/figures/architecture.pdf",
+    "source": "Figure/asymloop-architecture-v2.pdf",
+    "source_sha256": "b280c3219574ecf52b0e1849dfa7a88aa0d4fb7e304bd504cd24c3e591c80792"
+  },
+  {
+    "asset": "assets/figures/scaling.png",
+    "source": "Figure/asymloop-scaling-triptych.png",
+    "source_sha256": "2fc66e43a74c6263047b10a96a98714b8fdf336175309ae99459ce5292ebc05d"
+  },
+  {
+    "asset": "assets/figures/scaling.pdf",
+    "source": "Figure/asymloop-scaling-triptych.pdf",
+    "source_sha256": "a908d42bf16cc59cd242b9c761c07d3d6e3db361421289fd909d7a5e7e4bef4e"
+  },
+  {
+    "asset": "assets/figures/learning-rates.png",
+    "source": "Figure/alrs-encoder-decoder-learning-rates.png",
+    "source_sha256": "aefe4d814ba76fb6fce6cdfd2b78cf142ca361cea3ec48c6949f7c9871689386"
+  },
+  {
+    "asset": "assets/figures/learning-rates.pdf",
+    "source": "Figure/alrs-encoder-decoder-learning-rates.pdf",
+    "source_sha256": "66d406d08b60cbc96d3e572bd53592b82dc14f2814dbbe78e17010d1474505d7"
+  },
+  {
+    "asset": "assets/figures/compute.png",
+    "source": "Figure/asymloop-training-compute-pareto.png",
+    "source_sha256": "090f5ad174bb8a5dd21c8fc666c56130825bd88c01792628039521beb316e0df"
+  },
+  {
+    "asset": "assets/figures/compute.pdf",
+    "source": "Figure/asymloop-training-compute-pareto.pdf",
+    "source_sha256": "d75c6ce3b209ba4eb7b40bf9ec9f9d58714ba211dde961375ec2961b15cd5e15"
+  }
+]
