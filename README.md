@@ -32,4 +32,4 @@ Open `http://localhost:8766/`. Use an HTTP server because the interactive result
 - `assets/figures/`: web images and original vector PDFs.
 - `assets/paper/asymloop.pdf`: public manuscript PDF.
 
-Author details and a link to the public model implementation can be added when available. The website repository is separate from the model implementation.
+Author details and affiliations are included; Zhouhan Lin is the corresponding author. A link to the public model implementation can be added when available. The website repository is separate from the model implementation.
